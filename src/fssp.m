@@ -21,7 +21,7 @@ function varargout = fssp(varargin)
 % to the quiescent (idle) state, except for the soldier on the far left
 % (the Officer). The state of each soldier at each discrete time-step t > 0
 % is dependent on its state and the state of its two neighbors at time
-% t ? 1 (except for the two soldiers at either end, each of whose state
+% t - 1 (except for the two soldiers at either end, each of whose state
 % depends only on itself and its sole neighbor). In addition, if a soldier
 % and its neighbors are in the quiescent state, then the soldier will
 % remain quiescent at the next time-step. The problem is to define a finite

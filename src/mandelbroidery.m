@@ -1,8 +1,8 @@
 function A = mandelbroidery()
-% MANDELBROIDER - Mandelbrot Embroidery Pattern
+% MANDELBROIDERY - Mandelbrot Embroidery Pattern
 %
 %USAGE
-%   A = mandelbroider() will create a matrix of color intensities based on
+%   A = mandelbroidery() will create a matrix of color intensities based on
 %   rates of divergence from the edge of the mandelbrot set
 %
 %REFERENCES

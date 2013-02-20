@@ -14,16 +14,16 @@ DIY case for my next phone, an iPhone 5 [1] and wanting to create a design
 that was just my style.
 
 After having worked with cellular automata in a previous project [2], I wanted
-something euqally interesting but also colorful.
+something equally interesting but also colorful.
 
 Development
-----
+-----------
 
 Please feel free to make changes, offer suggestions, and help me port this to
 other languages of interet.  Thanks!
 
 References
-----
+----------
 
 [1] http://connectdesign.co.kr/front/php/product.php?product_no=170
 
